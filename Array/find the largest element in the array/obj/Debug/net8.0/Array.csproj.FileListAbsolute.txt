@@ -1,0 +1,28 @@
+C:\Users\Lago\Desktop\Learn C#\Array\bin\Debug\net8.0\Array.exe
+C:\Users\Lago\Desktop\Learn C#\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\Lago\Desktop\Learn C#\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\Lago\Desktop\Learn C#\Array\bin\Debug\net8.0\Array.dll
+C:\Users\Lago\Desktop\Learn C#\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\Array.dll
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\Lago\Desktop\Learn C#\Array\obj\Debug\net8.0\ref\Array.dll
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\bin\Debug\net8.0\Array.exe
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\bin\Debug\net8.0\Array.deps.json
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\bin\Debug\net8.0\Array.dll
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\bin\Debug\net8.0\Array.pdb
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\Array.dll
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\Array.pdb
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\Lago\Desktop\Learn C#\Array\find the largest element in the array\obj\Debug\net8.0\ref\Array.dll
